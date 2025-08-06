@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🎓 I studied Computer Science
 - ❤️ Love outdoor activities i.e. exploring nature
-- ⚡ Interested in developing applications that seamlessly integrate AI.
+- ⚡ Interested in developing robust and user-cenrtic applications.
 - 👯 Looking to collaborate on projects or hackathons.
 - ⚙️ In love with Open Source
 - ⚽ I am a die-hard fan of Manchester United **GGMU**
