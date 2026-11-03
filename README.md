@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚙️ In love with Open Source
 - ⚽ I am a die-hard fan of Manchester United **GGMU**
 - ⚡ Fun fact: I used to speak and write Italian when I was younger, now the only thing I know is "Buongiorno"😅
-- 👨‍💻 [Portfolio](https://my-portfolio-lake-eta-17.vercel.app/)
+- 👨‍💻 [QA Portfolio](https://qa-portfolio-flax-iota.vercel.app/)
 
 <h3>Life is too short, smile while you still have teeth😁</h3>
 
